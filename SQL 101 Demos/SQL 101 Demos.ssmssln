@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Mod 2 Demos", "..\Module 02\Mod 2 Demos\Mod 2 Demos\Mod 2 Demos.ssmssqlproj", "{04E34754-EC0B-4585-A29F-C787B210ACCE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Mod 3 Demos", "..\Module 03\Mod 3 Demos\Mod 3 Demos\Mod 3 Demos.ssmssqlproj", "{957A1B99-3559-4ABC-9BD6-F0B5EB62C8D6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Mod 4 Demos", "..\Module 04\Mod 4 Demos\Mod 4 Demos\Mod 4 Demos.ssmssqlproj", "{F8D9BA71-B9D1-4FFA-A3E0-C8C91B357F7D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Mod 5 Demos", "..\Module 05\Mod 5 Demos\Mod 5 Demos\Mod 5 Demos.ssmssqlproj", "{19223B9C-CD2E-4EE5-8044-0155639F4A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF30BEF-8651-4A75-8260-7090E87965EA}.Default|Default.ActiveCfg = Default
+		{04E34754-EC0B-4585-A29F-C787B210ACCE}.Default|Default.ActiveCfg = Default
+		{957A1B99-3559-4ABC-9BD6-F0B5EB62C8D6}.Default|Default.ActiveCfg = Default
+		{F8D9BA71-B9D1-4FFA-A3E0-C8C91B357F7D}.Default|Default.ActiveCfg = Default
+		{19223B9C-CD2E-4EE5-8044-0155639F4A15}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

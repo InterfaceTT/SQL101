@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Mod 4 Demos">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="PETER-XPS17:Peter-XPS17\Peter">
+          <Created>2015-11-30T07:58:45.0163754-07:00</Created>
+          <Type>SQL</Type>
+          <Server>PETER-XPS17</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Mod04 Demo 01 - DateFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PETER-XPS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PETER-XPS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mod04 Demo 01 - DateFunctions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mod04 Demo 02 - StringFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PETER-XPS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PETER-XPS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mod04 Demo 02 - StringFunctions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mod04 Demo 03 - CastAndConvertFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PETER-XPS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PETER-XPS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mod04 Demo 03 - CastAndConvertFunctions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mod04 Demo 04 - NullFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PETER-XPS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PETER-XPS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mod04 Demo 04 - NullFunctions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mod04 Demo 05 - CASEStructure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PETER-XPS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PETER-XPS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mod04 Demo 05 - CASEStructure.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

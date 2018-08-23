@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Mod 4 Demos", "Mod 4 Demos\Mod 4 Demos.ssmssqlproj", "{9B08671F-2A53-4E38-ACC0-50B54AF59E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B08671F-2A53-4E38-ACC0-50B54AF59E93}.Default|Default.ActiveCfg = Default
+		{6A119BA8-1DEA-4A11-AA4A-E759D5DAD76F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
